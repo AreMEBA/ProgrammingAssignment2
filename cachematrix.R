@@ -30,5 +30,3 @@ cacheSolve <- function(x, ...) {
   inv     
 
 }
-
-cacheSolve(x)
